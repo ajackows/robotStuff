@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ajackow/workspace/RedFollow/SerialDriver.cpp
+SerialDriver.h
+/home/ajackow/workspace/RedFollow/SerialDriver.h
+
+/home/ajackow/workspace/RedFollow/SerialDriver.h
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+fcntl.h
+-
+errno.h
+-
+termios.h
+-
+

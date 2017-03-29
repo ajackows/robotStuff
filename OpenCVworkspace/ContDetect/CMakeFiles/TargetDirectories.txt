@@ -1,0 +1,3 @@
+/home/ajackow/workspace/OpenCVworkspace/ContDetect/CMakeFiles/edit_cache.dir
+/home/ajackow/workspace/OpenCVworkspace/ContDetect/CMakeFiles/rebuild_cache.dir
+/home/ajackow/workspace/OpenCVworkspace/ContDetect/CMakeFiles/ContourDetect.dir

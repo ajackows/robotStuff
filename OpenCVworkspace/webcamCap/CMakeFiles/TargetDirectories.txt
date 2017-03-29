@@ -1,0 +1,3 @@
+/home/ajackow/workspace/OpenCVworkspace/webcamCap/CMakeFiles/edit_cache.dir
+/home/ajackow/workspace/OpenCVworkspace/webcamCap/CMakeFiles/rebuild_cache.dir
+/home/ajackow/workspace/OpenCVworkspace/webcamCap/CMakeFiles/webcamCap.dir

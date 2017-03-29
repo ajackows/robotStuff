@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSerialDriver.a  CMakeFiles/SerialDriver.dir/SerialDriver.cpp.o
+/usr/bin/ranlib libSerialDriver.a

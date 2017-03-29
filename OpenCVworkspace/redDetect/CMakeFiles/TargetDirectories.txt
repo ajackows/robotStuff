@@ -1,0 +1,3 @@
+/home/ajackow/workspace/OpenCVworkspace/redDetect/CMakeFiles/edit_cache.dir
+/home/ajackow/workspace/OpenCVworkspace/redDetect/CMakeFiles/rebuild_cache.dir
+/home/ajackow/workspace/OpenCVworkspace/redDetect/CMakeFiles/redDetect.dir

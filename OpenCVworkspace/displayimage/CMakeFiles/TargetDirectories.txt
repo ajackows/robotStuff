@@ -1,0 +1,3 @@
+/home/ajackow/workspace/OpenCVworkspace/displayimage/CMakeFiles/edit_cache.dir
+/home/ajackow/workspace/OpenCVworkspace/displayimage/CMakeFiles/rebuild_cache.dir
+/home/ajackow/workspace/OpenCVworkspace/displayimage/CMakeFiles/DisplayImage.dir

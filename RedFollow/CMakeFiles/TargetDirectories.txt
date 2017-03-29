@@ -1,0 +1,4 @@
+/home/ajackow/workspace/RedFollow/CMakeFiles/edit_cache.dir
+/home/ajackow/workspace/RedFollow/CMakeFiles/redDetect.dir
+/home/ajackow/workspace/RedFollow/CMakeFiles/rebuild_cache.dir
+/home/ajackow/workspace/RedFollow/CMakeFiles/SerialDriver.dir
