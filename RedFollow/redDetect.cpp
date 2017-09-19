@@ -123,8 +123,6 @@ int main( int argc, char** argv )
 			port_writeByte(port, uint8_t(full));
 			
 			
-			
-			
 		}else
 		{
 			port_writeByte(port, 'N');
