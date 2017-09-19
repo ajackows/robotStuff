@@ -81,7 +81,7 @@ using namespace std;
 
 
 	//Calculate the moments of the thresholded image
-	Moments oMoments = momentsCentroid(imgThresholded);
+	Moments oMoments = moments(imgThresholded);
 
 	double dM01 = oMoments.m01;
 	double dM10 = oMoments.m10;
